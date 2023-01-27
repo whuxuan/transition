@@ -8,10 +8,10 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 
       subtitle:
-      text: |-
-       
+      text:
+      
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
@@ -51,5 +51,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '1'
 ---
