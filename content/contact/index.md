@@ -23,9 +23,6 @@ sections:
         postcode: '27705'
         country: United States
         country_code: US
-      coordinates:
-    	latitude: '36.0032'
-    	longitude: '-78.9437'
       directions: Enter the Grainger Hall and take the stairs to the 4th floor
       office_hours:
         - 'Wednesday 09:00 to 11:00'
