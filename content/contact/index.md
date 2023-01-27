@@ -1,15 +1,17 @@
 ---
+# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
 
 sections:
-	- block: contact
-    	id: contact
-	    content:
-	      title:  
-	      subtitle:
-	      text: 
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+       
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
@@ -49,6 +51,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '1'
+      columns: '2'
 ---
-
